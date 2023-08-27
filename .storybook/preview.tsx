@@ -2,8 +2,8 @@ import React from 'react';
 import { Preview } from '@storybook/react';
 import { ThemeProvider } from 'styled-components';
 
-import { theme } from '../styles/theme';
-import { GlobalStyles } from '../styles/global-styles';
+import { theme } from '../src/styles/theme';
+import { GlobalStyles } from '../src/styles/global-styles';
 
 
 export const preview: Preview = {
