@@ -1,7 +1,7 @@
 ## Meu repositório pessoal de exemplos para aplicativos NextJs.
 
 
-Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next-app@latest --exemple (https://github.com/viniciusram2025/next13-template-082023)`](https://github.com/viniciusram2025/next13-template-082023).
+Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next-app@latest --example (https://github.com/viniciusram2025/next13-template-082023)`](https://github.com/viniciusram2025/next13-template-082023).
 
 ## Iniciando Projeto
 
