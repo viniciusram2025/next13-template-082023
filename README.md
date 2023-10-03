@@ -3,7 +3,7 @@
 
 Este é um projeto [Next.js](https://nextjs.org/) inicializado com:
 ```basg
-npx create-next-app project-name --example https://github.com/viniciusram2025/next13-template-082023
+npx create-next-app project-name -e https://github.com/viniciusram2025/next13-template-082023
 ```
 
 ## Iniciando Projeto
